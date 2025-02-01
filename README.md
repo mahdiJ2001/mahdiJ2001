@@ -3,8 +3,6 @@
 <h3 align="center">Software Engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🌱 I’m currently learning **Software and Data Engineering **
-
 - 📫 How to reach me **mahdijellali2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
