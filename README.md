@@ -15,7 +15,8 @@
 ---
 
 ## About Me
-I am a Software Engineering student with a strong interest in **distributed systems**, **software architecture**, and **building scalable applications**. I have gained practical experience through **two internships at fintech companies**. I enjoy solving complex problems and continuously learning new technologies to improve my skills.
+I am a **Software Engineering** student with a strong interest in **distributed systems**, **software architecture**, and building **scalable applications**. I have gained practical experience through **two internships** at **fintech companies**. I enjoy solving complex problems and continuously learning new technologies. Additionally, I have a foundation in **mathematics** and physics, having completed two years of preparatory studies and earning my baccalaureate in mathematics.
+
 
 ---
 
