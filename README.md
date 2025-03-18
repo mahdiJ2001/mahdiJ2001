@@ -14,6 +14,11 @@
 
 ---
 
+## About Me
+I am a passionate Software Engineering student with a strong interest in **distributed systems**, **software architecture**, and **building scalable applications**. I have gained practical experience through **two internships at fintech companies**, where I worked on developing robust and efficient systems. I enjoy solving complex problems and continuously learning new technologies to improve my skills.
+
+---
+
 ## 🖥️ Languages:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -70,6 +75,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST API" width="40" height="40"/>
   </a>
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/GRPC_Logo.svg" alt="grpc" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/>
   </a>
 </p>
