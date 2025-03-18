@@ -55,12 +55,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Apache_Kafka_logo.svg" alt="kafka" width="80" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Apache-kafka-logo.svg" alt="kafka" width="80" height="40"/>
 </a>
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST API" width="40" height="40"/>
 </a>
 <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/GRPC_Logo.png" alt="grpc" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GRPC_logo.svg" alt="grpc" width="80" height="40"/>
 </a>
 </p>
