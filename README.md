@@ -12,7 +12,9 @@
 </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+---
+
+## 🖥️ Languages:
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -28,43 +30,35 @@
 </a>
 </p>
 
-<h3 align="left">Backend Framework:</h3>
+---
+
+## 🔧 Frameworks, Databases & Tools:
 <p align="left">
+<!-- Frameworks -->
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
 </a>
-</p>
-
-<h3 align="left">Frontend Framework:</h3>
-<p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
-</p>
 
-<h3 align="left">Databases:</h3>
-<p align="left">
+<!-- Databases -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a> 
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra" width="40" height="40"/>
 </a>
-</p>
 
-<h3 align="left">Other Tools:</h3>
-<p align="left">
+<!-- Tools -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Apache_Kafka_logo.svg" alt="kafka" width="80" height="40"/>
 </a>
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST API" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 <a href="https://grpc.io/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/GRPC_Logo.png" alt="grpc" width="40" height="40"/>
