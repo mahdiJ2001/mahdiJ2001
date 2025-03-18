@@ -69,7 +69,7 @@ I am a Software Engineering student with a strong interest in **distributed syst
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apachekafka.svg" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST API" width="40" height="40"/>
