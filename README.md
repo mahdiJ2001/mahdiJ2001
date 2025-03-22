@@ -59,7 +59,7 @@ I am a **Software Engineering** student with an interest in **distributed system
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" alt="cassandra" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws rds" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="rds rds" width="40" height="40"/>
   </a>
 
   <!-- Tools -->
