@@ -58,6 +58,9 @@ I am a **Software Engineering** student with an interest in **distributed system
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" alt="cassandra" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws rds" width="40" height="40"/>
+  </a>
 
   <!-- Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -78,4 +81,11 @@ I am a **Software Engineering** student with an interest in **distributed system
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws ecs" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/msk/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amazon_MS_Kafka_logo.svg/1200px-Amazon_MS_Kafka_logo.svg.png" alt="aws msk" width="40" height="40"/>
+  </a>
 </p>
+
