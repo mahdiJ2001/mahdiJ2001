@@ -7,7 +7,7 @@ I am a **Software Engineering** student with an interest in **distributed system
 
 ---
 
-- 📫 How to reach me **mahdijellali2001@gmail.com**  
+- 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
 - 💬 I respond **daily** on LinkedIn  
 
 <h3 align="left">Connect with me:</h3>
@@ -19,11 +19,14 @@ I am a **Software Engineering** student with an interest in **distributed system
 
 ---
 
-## 🖥️ Languages:
+## 🎥 Languages:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -40,7 +43,7 @@ I am a **Software Engineering** student with an interest in **distributed system
 
 ---
 
-## 🔧 Frameworks, Databases & Tools:
+## 🛠️ Frameworks, Databases & Tools:
 <p align="left">
   <!-- Frameworks -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -57,9 +60,13 @@ I am a **Software Engineering** student with an interest in **distributed system
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" alt="cassandra" width="40" height="40"/>
   </a>
+  
   <!-- Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
@@ -80,4 +87,3 @@ I am a **Software Engineering** student with an interest in **distributed system
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws ecs" width="40" height="40"/>
   </a>
 </p>
-
