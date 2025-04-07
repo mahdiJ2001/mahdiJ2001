@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi Jellali</h1>
 <h3 align="center">Software Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">-->
 
 ## About Me
 I am a **Software Engineering** student with an interest in **distributed systems**, **software architecture**, and **Data Engineering**. I have gained practical experience through **two internships** at **fintech companies**. 
