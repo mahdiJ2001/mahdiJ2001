@@ -27,4 +27,4 @@ I enjoy solving complex problems and continuously learning new technologies. Add
 ---
 
 ## 🛠️ Frameworks, Databases & Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,docker,kafka,git,github,aws,camunda,cassandra,mysql,postman,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,docker,kafka,git,github,aws,cassandra,mysql,postman,idea,vscode)](https://skillicons.dev)
