@@ -22,9 +22,9 @@ I enjoy solving complex problems and continuously learning new technologies. Add
 ---
 
 ## 🎥 Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,ts)](https://skillicons.dev)
 
 ---
 
 ## 🛠️ Frameworks, Databases & Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,postgres,docker,kafka,git,github,grpc,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,docker,kafka,git,github,grpc,aws,camunda,cassandra,mysql,postman,idea,vscode)](https://skillicons.dev)
