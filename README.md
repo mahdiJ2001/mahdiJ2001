@@ -23,24 +23,13 @@ I enjoy solving complex problems and continuously learning new technologies. Add
 
 ## 🎥 Languages:
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+  [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+  [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 </p>
 
 ---
@@ -48,53 +37,17 @@ I enjoy solving complex problems and continuously learning new technologies. Add
 ## 🛠️ Frameworks, Databases & Tools:
 <p align="left">
   <!-- Frameworks -->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
+  [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+  [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
   
   <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" alt="cassandra" width="40" height="40"/>
-  </a>
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
   
   <!-- Tools -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
-  </a>
-  <a href="https://camunda.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Camunda_Logo_2021.svg" alt="camunda" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apachekafka.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="REST API" width="40" height="40"/>
-  </a>
-  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws ecs" width="40" height="40"/>
-  </a>
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+  [![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  [![gRPC](https://skillicons.dev/icons?i=grpc)](https://skillicons.dev)
+  [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 </p>
-
-  <a href="https://camunda.com/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/9e2a94de998da917ae97e3557d801514308fb114bca5d99dba3050df1bcfcf34/68747470733a2f2f6173736574732e63616d756e64612e636f6d2f63616d756e64612d69636f6e2d33307833302e706e67" alt="camunda" width="40" height="40"/>
-  </a>
-
-
