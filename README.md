@@ -22,32 +22,9 @@ I enjoy solving complex problems and continuously learning new technologies. Add
 ---
 
 ## 🎥 Languages:
-<p align="left">
-  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-  [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-  [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,ts,angular)](https://skillicons.dev)
 
 ---
 
 ## 🛠️ Frameworks, Databases & Tools:
-<p align="left">
-  <!-- Frameworks -->
-  [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
-  [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-  
-  <!-- Databases -->
-  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-  
-  <!-- Tools -->
-  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-  [![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
-  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  [![gRPC](https://skillicons.dev/icons?i=grpc)](https://skillicons.dev)
-  [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=spring,postgres,docker,kafka,git,github,grpc,aws)](https://skillicons.dev)
