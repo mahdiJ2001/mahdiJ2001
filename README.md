@@ -36,4 +36,5 @@ I am highly adaptable and have no issues learning new technologies. I constantly
 ---
 
 ## 🛠️ Frameworks, Databases & Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,docker,kafka,git,github,aws,cassandra,mysql,postman,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,docker,kafka,git,github,aws,cassandra,mysql,postman,idea,vscode,nextjs)](https://skillicons.dev)
+
