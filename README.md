@@ -7,6 +7,15 @@ I am a **Software Engineering** student with an interest in **distributed system
 
 I enjoy solving complex problems and continuously learning new technologies. Additionally, I have a foundation in **mathematics** and physics, having completed two years of preparatory studies and earning my baccalaureate in mathematics.
 
+## What I Bring to the Table
+
+I have developed several **full-stack projects** using **Spring Boot** for the backend and **Angular/Next.js** for the frontend. I am capable of **dockerizing** these applications and managing the entire process from **design to dockerization** of the solution. My expertise allows me to deliver end-to-end solutions for complex projects.
+
+I am highly adaptable and have no issues learning new technologies. I constantly strive to step out of my comfort zone and take on new challenges. Whether it’s doing **business research** for a project or quickly learning and applying new technologies, I am committed to continuous growth and improving my skill set. I pride myself on being able to **learn rapidly** and effectively integrate newly learned technologies into my work.
+
+---
+
+
 ---
 
 - 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
