@@ -18,8 +18,6 @@ I enjoy solving complex problems and continuously learning new technologies. Add
 ---
 
 
----
-
 - 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
 - 💬 I respond **daily** on LinkedIn  
 
