@@ -7,13 +7,6 @@ I am a **Software Engineering** student with an interest in **distributed system
 
 I enjoy solving complex problems and continuously learning new technologies. Additionally, I have a foundation in **mathematics** and physics, having completed two years of preparatory studies and earning my baccalaureate in mathematics.
 
-## How I Add Value
-
-- Developed **full-stack projects** using **Spring Boot** (backend) and **Angular/Next.js** (frontend).
-- Capable of **dockerizing** applications and managing the process from **design to deployment**.
-- Eager to learn new technologies and continuously improve my skill set.
-- Committed to taking on challenges and integrating newly learned technologies into my work.
-
 
 ---
 
