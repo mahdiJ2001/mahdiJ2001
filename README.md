@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahdi Jellali</h1>
+<h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">Software Engineering Student</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">-->
 
