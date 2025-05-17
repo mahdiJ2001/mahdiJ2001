@@ -3,9 +3,21 @@
 <!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">-->
 
 ## About Me
-I am a **Software Engineering** student with an interest in **distributed systems**, **fullstack development, software architecture**, and **Data Engineering**. I have gained practical experience through **two internships** at **fintech companies**. 
 
-I enjoy solving complex problems and continuously learning new technologies. Additionally, I have a foundation in **mathematics** and physics, having completed two years of preparatory studies and earning my baccalaureate in mathematics.
+I am a **Software Engineering** student with interests in:
+
+- **Distributed systems**
+- **Fullstack development**
+- **Software architecture**
+- **Data Engineering**
+- **Building automations and software products**
+
+### Experience
+
+- Gained practical experience through **two internships** at **fintech companies**
+- Passionate about solving complex problems and continuously learning new technologies
+- Foundation in **mathematics** and **physics**
+
 
 
 ---
