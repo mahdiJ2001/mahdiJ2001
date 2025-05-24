@@ -6,7 +6,6 @@
 
 I am a **Software Engineering** student with interests in:
 
-- **Distributed systems**
 - **Fullstack development**
 - **Software architecture**
 - **Data Engineering**
