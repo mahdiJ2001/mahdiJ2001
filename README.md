@@ -10,13 +10,13 @@ I am a **Software Engineering** student with interests in:
 - **Software architecture**
 - **Data Engineering**
 - **Building automations and software products**
+- I try to Actively adopt AI-powered tools and technologies to make the development process more efficient
 
 ### Experience
 
 - Gained practical experience through **two internships** at **fintech companies** and an **introductory internship** at an **E-learning** startup
 - Passionate about solving complex problems and continuously learning new technologies
 - Foundation in **mathematics** and **physics**
-- Actively adopts AI-powered tools and technologies to make the development process more efficient
 
 
 
