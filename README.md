@@ -25,6 +25,7 @@ I am a **Software Engineering** student with interests in:
 
 - 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
 - 💬 I respond **daily** on LinkedIn  
+- 🌐 Portfolio: [https://concise-code-display.vercel.app/](https://concise-code-display.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
