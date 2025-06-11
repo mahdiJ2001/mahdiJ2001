@@ -41,6 +41,6 @@ I am a **Software Engineering** student with interests in:
 ---
 
 ## 🛠️ Frameworks, Databases & Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,kafka,git,github,aws,cassandra,mysql,postman,idea,vscode,nextjs,fastapi,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,kafka,git,github,cassandra,mysql,postman,idea,vscode,nextjs,fastapi,react)](https://skillicons.dev)
 
 
