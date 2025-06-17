@@ -4,13 +4,7 @@
 
 ## About Me
 
-I am a **Software Engineering** student with interests in:
-
-- **Fullstack development**
-- **Software architecture**
-- **Data Engineering**
-- **Building automations and software products**
-- I try to Actively adopt AI-powered tools and technologies to make the development process more efficient
+I am a final year **Software Engineering** student with experience in Spring Boot and Angular gained through internships and various projects. I have a strong problem-solving mindset and am always ready to adapt to new technologies or AI tools to make my development process more efficient.
 
 ### Experience
 
