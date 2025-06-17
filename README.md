@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a final year **Software Engineering** student with experience in Spring Boot and Angular gained through internships and various projects. I have a strong problem-solving mindset and am always ready to adapt to new technologies or AI tools to make my development process more efficient.
+Final year **Software Engineering** student with experience in Spring Boot and Angular gained through internships and various projects. I have a strong problem-solving mindset and am always ready to adapt to new technologies or AI tools to make my development process more efficient.
 
 ### Experience
 
