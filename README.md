@@ -30,7 +30,7 @@ Final year **Software Engineering** student with experience in Spring Boot and A
 ---
 
 ## 🎥 Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,ts)](https://skillicons.dev)
 
 ---
 
