@@ -6,13 +6,6 @@
 
 Final year **Software Engineering** student with experience in Spring Boot and Angular gained through internships and various projects. I have a strong problem-solving mindset and am always ready to adapt to new technologies or AI tools to make my development process more efficient.
 
-### Experience
-
-- Gained practical experience through **two internships** at **fintech companies** and an **introductory internship** at an **E-learning** startup
-- Foundation in **mathematics** and **physics**
-
-
-
 ---
 
 
