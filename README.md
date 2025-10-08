@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mahdiJ2001&color=blue)
 ## About Me
 
-Final year **Software Engineering** student with experience in Backend systems gained through internships and various projects. I have a strong problem-solving mindset and am always ready to adapt to new technologies or AI tools to make my development process more efficient.
+Final year **Software Engineering** student. I have a strong problem-solving mindset and am always ready to adapt to new technologies.
 
 ---
 
