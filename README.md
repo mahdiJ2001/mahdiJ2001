@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mahdiJ2001&color=blue)
 ## About Me
 
-Freshly graduated Software Engineer with a problem-solving mindset.
+Freshly graduated **Software Engineer** with a **problem-solving** mindset.
 
 ---
 
