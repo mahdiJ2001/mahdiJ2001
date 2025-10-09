@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mahdiJ2001&color=blue)
 ## About Me
 
-Final year **Software Engineering** student. I have a strong problem-solving mindset and am always ready to adapt to new technologies.
+Freshly graduated Software Engineer with a problem-solving mindset.
 
 ---
 
