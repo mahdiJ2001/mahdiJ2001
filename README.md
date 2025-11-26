@@ -29,7 +29,8 @@ I like automating systems ,Integrating AI in them and deploying them on the clou
 ---
 
 ## 🛠️ Frameworks, Databases & Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,kafka,git,github,cassandra,mysql,postman,idea,vscode,nextjs,fastapi,react,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,kafka,git,github,cassandra,mysql,postman,idea,vscode,nextjs,fastapi,react,aws,docker,claude)](https://skillicons.dev)
+
 
 
 
