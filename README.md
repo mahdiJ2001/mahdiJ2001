@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mahdiJ2001&color=blue)
 ## About Me
 
-**Software Engineer** I like automating systems ,Integrating AI in them and deploying them on the cloud.
+I like automating systems ,Integrating AI in them and deploying them on the cloud.
 
 ---
 
