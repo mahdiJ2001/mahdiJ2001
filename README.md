@@ -24,7 +24,7 @@ I like automating systems ,Integrating AI in them and deploying them on the clou
 ---
 
 ## 🎥 Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts)](https://skillicons.dev)
 
 ---
 
