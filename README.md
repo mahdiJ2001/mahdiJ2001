@@ -7,7 +7,6 @@
 
 
 - 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
-- 💬 I respond **daily** on LinkedIn  
 - 🌐 Portfolio: https://www.mahdijellali.space/
 
 <h3 align="left">Connect with me:</h3>
