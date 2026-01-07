@@ -2,6 +2,8 @@
 <h3 align="center">Software Engineer</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">-->
 
+Currently Working on becoming a cracked distributed systems and solutions architect.
+
 ![Profile views](https://komarev.com/ghpvc/?username=mahdiJ2001&color=blue)
 
 
