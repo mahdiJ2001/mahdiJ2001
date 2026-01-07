@@ -4,10 +4,6 @@
 
 Currently Working on becoming a cracked distributed systems and solutions architect.
 
-![Profile views](https://komarev.com/ghpvc/?username=mahdiJ2001&color=blue)
-
-
-
 - 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
 - 🌐 Portfolio: https://www.mahdijellali.space/
 
