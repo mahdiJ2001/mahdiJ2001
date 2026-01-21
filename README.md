@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">-->
 
-Currently Working on becoming a cracked distributed systems and solutions architect.
+Currently Working on becoming a solutions architect.
 
 - 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
 - 🌐 Portfolio: https://www.mahdijellali.space/
