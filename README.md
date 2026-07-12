@@ -4,7 +4,6 @@
 
 
 - 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
-- 🌐 Portfolio: https://www.mahdijellali.space/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
