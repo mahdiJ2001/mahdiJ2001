@@ -23,4 +23,4 @@
 ---
 
 ## 🛠️ Frameworks, Databases & Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,kafka,git,github,cassandra,mysql,postman,idea,vscode,nextjs,fastapi,react,aws,docker,claude,camunda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,postgres,kafka,git,github,cassandra,mysql,postman,idea,vscode,nextjs,fastapi,react,aws,docker,claude,camunda,nestjs)](https://skillicons.dev)
