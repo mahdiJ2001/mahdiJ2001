@@ -6,16 +6,17 @@
 </p>
 
 <p align="left">
-  I’m a Software Engineer graduated from the <b>National Engineering School of Tunis (ENIT)</b>, focused on backend engineering, cloud infrastructure, and applied AI.
+  🔧 <b>What I do:</b> Design scalable backend APIs and own features end-to-end, from database design to production.
 </p>
 
 <p align="left">
-  I've worked on production products serving <b>2,000+ customers</b>, building and shipping features across backend, APIs, databases, cloud infrastructure, and frontend.
+  🎓 <b>Education:</b> Engineering degree in Software Engineering from the <b>National Engineering School of Tunis (ENIT)</b>.
 </p>
 
 <p align="left">
-  Currently exploring <b>LLM applications, RAG, AI agents, and intelligent backend systems</b>, with a focus on applying AI to real-world software products.
+  🚀 <b>How I work:</b> Leverage AI to ship faster without sacrificing code quality, reliability, or engineering standards.
 </p>
+
 
 ---
 
