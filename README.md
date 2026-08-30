@@ -1,20 +1,12 @@
-<h1 align="center">Hi , I'm Mahdi</h1>
-<h3 align="center">Software Engineer</h3>
-<!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">-->
+<h1 align="center">Hi, I'm Mahdi 👋</h1> <h3 align="center">Backend Engineer · AI Software Engineer</h3>
 
-<p align="center">
-  🚀 <i>Currently focusing on expanding my expertise in product development and AI software engineering.</i>
-</p>
+<p align="center"> 🚀 <i>Building production-grade backend systems and AI-powered applications.</i> </p>
 
-- 👨‍💻 How to reach me **mahdijellali2001@gmail.com**  
+<p align="center"> I’m a Software Engineer graduated from the <b>National Engineering School of Tunis (ENIT)</b>, focused on backend engineering, cloud infrastructure, and applied AI. </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahdi-jellali-849858285/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-jellali-linkedin" height="30" width="40" />
-  </a>
-</p>
+<p align="center"> I've worked on production products serving <b>2,000+ customers</b>, building and shipping features across backend, APIs, databases, cloud infrastructure, and frontend. </p>
 
+<p align="center"> Currently exploring <b>LLM applications, RAG, AI agents, and intelligent backend systems</b>, with a focus on turning AI capabilities into reliable production software. </p>
 ---
 
 ## 🎥 Languages:
