@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer | Backend & AI Enthusiast</h3>
 
 <p align="left">
-  🚀 <i>Interested in the intersection of AI and software engineering to build better products.</i>
+  🚀 <i>Interested in the intersection of AI and software engineering to build intelligent products.</i>
 </p>
 
 <p align="left">
