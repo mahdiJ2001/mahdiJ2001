@@ -71,9 +71,5 @@ Currently exploring:
 
 **LLMs · RAG · AI Agents · LangChain · Vector Databases · AWS Bedrock**
 
----
 
-## 🛠️ Tools
-
-[![My Skills](https://skillicons.dev/icons?i=postman,idea,vscode)](https://skillicons.dev)
 
