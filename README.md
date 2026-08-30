@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  🔧 <b>What I do:</b> Design scalable backend APIs and own features end-to-end, from database design to production.
+  🔧 <b>What I do:</b> Design scalable backend APIs, improve API performance, and own features end-to-end from database design to production, across applications serving <b>2,000+ customers</b>.
 </p>
 
 <p align="left">
