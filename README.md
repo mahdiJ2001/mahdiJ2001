@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Mahdi 👋</h1>
-<h3 align="left">Software Engineer | Backend & AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Mahdi 👋</h1>
+<h3 align="center">Software Engineer | Backend & AI Enthusiast</h3>
 
 <p align="left">
   🚀 <i>Interested in the intersection of AI and software engineering to build intelligent products.</i>
