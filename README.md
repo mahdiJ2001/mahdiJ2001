@@ -21,31 +21,31 @@
 
 ---
 
-## 💻 Languages
+##  Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,ts,html,css)](https://skillicons.dev)
 
 ---
 
-## ⚙️ Backend
+##  Backend
 
 [![My Skills](https://skillicons.dev/icons?i=spring,fastapi,nestjs,hibernate,postgres,mysql,cassandra,kafka,camunda)](https://skillicons.dev)
 
 ---
 
-## ☁️ Infrastructure & DevOps
+##  Infrastructure & DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github)](https://skillicons.dev)
 
 ---
 
-## 🎨 Frontend
+##  Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular)](https://skillicons.dev)
 
 ---
 
-## 🤖 AI & LLM
+##  AI & LLM
 
 Currently exploring:
 
