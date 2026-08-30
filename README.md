@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Mahdi 👋</h1>
-<h3 align="left">Backend Engineer · AI Software Engineer</h3>
+<h3 align="left">Software Engineer | Backend & AI Enthusiast</h3>
 
 <p align="left">
-  🚀 <i>Building production-grade backend systems and AI-powered applications.</i>
+  🚀 <i>Interested in the intersection of AI and software engineering to build better products.</i>
 </p>
 
 <p align="left">
@@ -14,32 +14,24 @@
 </p>
 
 <p align="left">
-  Currently exploring <b>LLM applications, RAG, AI agents, and intelligent backend systems</b>, with a focus on turning AI capabilities into reliable production software.
+  Currently exploring <b>LLM applications, RAG, AI agents, and intelligent backend systems</b>, with a focus on applying AI to real-world software products.
 </p>
 
 ---
 
 ##  Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,ts,html,css)](https://skillicons.dev)
-
 ---
 
 ##  Backend
-
-[![My Skills](https://skillicons.dev/icons?i=spring,fastapi,nestjs,hibernate,postgres,mysql,cassandra,kafka,camunda)](https://skillicons.dev)
 
 ---
 
 ##  Infrastructure & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github)](https://skillicons.dev)
-
 ---
 
 ##  Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular)](https://skillicons.dev)
 
 ---
 
@@ -48,4 +40,3 @@
 Currently exploring:
 
 **LLMs · RAG · AI Agents · LangChain · Vector Databases · AWS Bedrock**
-
