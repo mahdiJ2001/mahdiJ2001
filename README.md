@@ -2,11 +2,11 @@
 
 <p align="center"> 🚀 <i>Building production-grade backend systems and AI-powered applications.</i> </p>
 
-<p align="center"> I’m a Software Engineer graduated from the <b>National Engineering School of Tunis (ENIT)</b>, focused on backend engineering, cloud infrastructure, and applied AI. </p>
+<p align="left"> I’m a Software Engineer graduated from the <b>National Engineering School of Tunis (ENIT)</b>, focused on backend engineering, cloud infrastructure, and applied AI. </p>
 
-<p align="center"> I've worked on production products serving <b>2,000+ customers</b>, building and shipping features across backend, APIs, databases, cloud infrastructure, and frontend. </p>
+<p align="left"> I've worked on production products serving <b>2,000+ customers</b>, building and shipping features across backend, APIs, databases, cloud infrastructure, and frontend. </p>
 
-<p align="center"> Currently exploring <b>LLM applications, RAG, AI agents, and intelligent backend systems</b>, with a focus on turning AI capabilities into reliable production software. </p>
+<p align="left"> Currently exploring <b>LLM applications, RAG, AI agents, and intelligent backend systems</b>, with a focus on turning AI capabilities into reliable production software. </p>
 ---
 
 ## 🎥 Languages:
