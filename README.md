@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🚀 <b>How I work:</b> Leverage AI to ship faster without sacrificing code quality, reliability, or engineering standards.
+  ⚡ <b>How I work:</b> Leverage AI to ship faster without sacrificing code quality, reliability, or engineering standards.
 </p>
 
 
