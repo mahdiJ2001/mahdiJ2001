@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Mahdi 👋</h1>
 <h3 align="center">Software Engineer | Backend & AI Enthusiast</h3>
 
-<p align="left">
+<p align="center">
   🚀 <i>Interested in the intersection of AI and software engineering to build intelligent products.</i>
 </p>
+
 
 <p align="left">
   🔧 <b>What I do:</b> Design scalable backend APIs and own features end-to-end, from database design to production.
