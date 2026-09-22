@@ -5,6 +5,7 @@
   🚀 <i>Interested in the intersection of AI and software engineering to build intelligent products.</i>
 </p>
 
+<br><br>
 
 <p align="left">
   🔧 <b>What I do:</b> Design scalable backend APIs, improve API performance, and own features end-to-end from database design to production, across applications serving <b>2,000+ customers</b>.
