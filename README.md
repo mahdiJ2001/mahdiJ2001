@@ -48,7 +48,7 @@
 
 Currently exploring:
 
-**LLMs · RAG · AI Agents · LangChain · Vector Databases · AWS Bedrock**
+**LLMs · RAG · AI Agents · LangChain · Vector Databases**
 
 
 
