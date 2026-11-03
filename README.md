@@ -6,15 +6,15 @@
 </p>
 <br><br>
 <p align="left">
-  🔧 <b>What I do:</b> Design scalable backend APIs, improve API performance, and own features end-to-end from database design to production, across applications serving <b>2,000+ customers</b>.
+  <b>What I do:</b> Design scalable backend APIs, improve API performance, and own features end-to-end from database design to production, across applications serving <b>2,000+ customers</b>.
 </p>
 
 <p align="left">
-  🎓 <b>Education:</b> Engineering degree in Software Engineering from the <b>National Engineering School of Tunis (ENIT)</b>.
+  <b>Education:</b> Engineering degree in Software Engineering from the <b>National Engineering School of Tunis (ENIT)</b>.
 </p>
 
 <p align="left">
-  ⚡ <b>How I work:</b> Leverage AI to ship faster without sacrificing code quality, reliability, or engineering standards.
+  <b>How I work:</b> Leverage AI to ship faster without sacrificing code quality, reliability, or engineering standards.
 </p>
 
 
