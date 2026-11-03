@@ -10,10 +10,6 @@
 </p>
 
 <p align="left">
-  <b>Education:</b> Engineering degree in Software Engineering from the <b>National Engineering School of Tunis (ENIT)</b>.
-</p>
-
-<p align="left">
   <b>How I work:</b> Leverage AI to ship faster without sacrificing code quality, reliability, or engineering standards.
 </p>
 
